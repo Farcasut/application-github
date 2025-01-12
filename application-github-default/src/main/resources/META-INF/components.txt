@@ -1,0 +1,5 @@
+com.xwiki.github.internal.configuration.DefaultGithubConfiguration
+com.xwiki.github.internal.configuration.GithubConfigurationSource
+com.xwiki.github.script.GithubScriptService
+com.xwiki.github.internal.configuration.GithubManager
+com.xwiki.github.internal.configuration.HttpClientBuilderFactory
